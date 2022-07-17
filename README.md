@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @NexHax
+- 👀 I’m interested making minecraft clients
+- 🌱 I’m currently learning java
